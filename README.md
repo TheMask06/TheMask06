@@ -12,7 +12,7 @@
 💞️ Busco colaborar en "Aprende Programando"
 📫 Cómo contactarme Intereses en Python y HTML
 😄 Pronombres: Llámame como quieras 🤣🤣🤣
-⚡Dato curioso: voy a empezar a ser técnico de software (que es software porque todavía no sé de hardware) 🤣🤣🤣🤣🤣🤣
+⚡Dato curioso: voy a empezar a ser técnico de software 🤓☝
 <!---
 TheMask06/TheMask06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
