@@ -5,7 +5,9 @@
 - 📫 How to reach me Interests in Python and HTML 
 - 😄 Pronouns: Call me whatever you want 🤣🤣🤣
 - ⚡ Fun fact: I'm going to start being a software technician 🤓☝
-- (In Spanish)
+
+(In Spanish)
+
 - 👋 Hola, soy @ TheMask06
 - 👀 Estoy interesado en ser programador
 - 🌱 Actualmente estoy aprendiendo desarrollador web y lenguaje Python.
